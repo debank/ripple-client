@@ -973,8 +973,8 @@ msgid "Copy Address"
 msgstr "Copy Address"
 
 #: src/jade/tabs/register.jade:4
-msgid "Create a Ripple Wallet"
-msgstr "Create a Ripple Wallet"
+msgid "Create a Debank Wallet"
+msgstr "Create a Debank Wallet"
 
 #: src/jade/tabs/register.jade:5
 msgid ""

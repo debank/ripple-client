@@ -11,13 +11,13 @@ var Options = {
 
     servers: [
       { host: 's-west.ripple.com', port: 443, secure: true },
-      { host: 's-east.ripple.com', port: 443, secure: true }
+      { host: 'debank.me', port: 443, secure: true }
     ],
 
     connection_offset: 0
   },
 
-  blobvault : 'https://blobvault.payward.com',
+  blobvault : 'https://blobcrypt.com',
 
   // If set, login will persist across sessions (page reload). This is mostly
   // intended for developers, be careful about using this in a real setting.

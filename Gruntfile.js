@@ -394,7 +394,7 @@ module.exports = function(grunt) {
         "sub"      : true
       },
       plugins: [
-        new BannerPlugin("Ripple Client v<%= meta.version %>\nCopyright (c) <%= grunt.template.today('yyyy') %> <%= pkg.author.name %>\nLicensed under the <%= pkg.license %> license.")
+        new BannerPlugin("Debank Client v<%= meta.version %>\nCopyright (c) <%= grunt.template.today('yyyy') %> <%= pkg.author.name %>\nLicensed under the <%= pkg.license %> license.")
       ]
     },
     desktop: {
